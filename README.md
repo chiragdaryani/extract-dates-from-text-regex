@@ -1,3 +1,5 @@
+# Extract Dates from News Articles
+
 In this project, our aim is using regular expressions to locate dates from written text. We try to extract various formats of dates from news texts. The dates are categorized into two types. The first one is simple date expressions, strings like “14 June 2019” and “Fall 2020” which represent absolute points in time and are independent of when you are reading them. The second type is deictic date expressions, dates that are relative to the current time, for example, “the day before yesterday”, “next Friday”, and “two weeks prior”.
 
 
