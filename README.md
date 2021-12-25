@@ -10,7 +10,7 @@ To run this project,
 3. Open Terminal in the directory you extracted the project folder to. 
 4. Change directory to the project folder using:
 
-    `cd f2021-asn1-chiragdaryani-main`
+    `cd extract-dates-from-text-regex-main`
  
 5. Now to execute the code, use the following command (in the current directory):
 
